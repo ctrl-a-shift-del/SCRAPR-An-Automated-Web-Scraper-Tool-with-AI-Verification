@@ -1,6 +1,5 @@
 # SCRAPR - Image Dataset Builder for Computer Vision
 
-https://github.com/ctrl-a-shift-del/SCRAPR-An-Automated-Web-Scraper-Tool-with-AI-Verification/raw/main/webscraper%20demo.mp4
 
 A free, domain-agnostic image-dataset collector for computer-vision projects.
 You **describe** the images you need; an AI turns that into precise searches,
