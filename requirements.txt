@@ -1,0 +1,7 @@
+requests>=2.31
+Pillow>=10.0
+ImageHash>=4.3
+groq>=1.5
+ddgs>=9.0
+python-dotenv>=1.0
+rich>=13.0
